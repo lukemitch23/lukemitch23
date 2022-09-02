@@ -4,9 +4,9 @@ Hi 👋 My name is Luke Mitchell
 Student
 -------
 
-* 🌍  I'm based in Gloucestershire
+* 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [luke@helloluke.co.uk](mailto:luke@helloluke.co.uk)
-* 🚀  I'm currently working on [Camera Auction Website](http://localhost)
+* 🚀  I'm currently working on [Camera Auction Website]
 * 🧠  I'm learning PHP
 
 ### Skills
