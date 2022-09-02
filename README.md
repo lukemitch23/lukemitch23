@@ -6,7 +6,7 @@ Student
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [luke@helloluke.co.uk](mailto:luke@helloluke.co.uk)
-* 🚀  I'm currently working on [Camera Auction Website]
+* 🚀  I'm currently working on [Camera Auction Website](https://github.com/lukemitch23/Coursework)
 * 🧠  I'm learning PHP
 
 ### Skills
