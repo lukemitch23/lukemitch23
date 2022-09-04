@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in United Kingdom
-* 🚀  I'm currently working on [Camera Auction Website](https://github.com/lukemitch23/Coursework) (its for school)
+* 🚀  I'm currently working on [Camera Auction Website](https://github.com/lukemitch23/Coursework) 
 
 ### Skills
 
