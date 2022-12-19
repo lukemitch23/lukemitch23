@@ -1,5 +1,5 @@
 Hi 👋 My name is Luke Mitchell
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter
+<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter" /a>
 ==============================
 
 Student
