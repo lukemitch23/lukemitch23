@@ -1,5 +1,4 @@
 Hi 👋 My name is Luke Mitchell
-<img scr="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter" /img>
 <a href="http://www.github.com/lukemitch23"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter" /></a>
 ==============================
 
@@ -30,9 +29,9 @@ Student
 
 <a href="http://www.github.com/lukemitch23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukemitch23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/lukemitch23"><img src="https://activity-graph.herokuapp.com/graph?username=lukemitch23&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/lukemitch23"><img src="https://activity-graph.herokuapp.com/graph?username=lukemitch23&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a>
 
-<a href="http://www.github.com/lukemitch23"><img src="[https://activity-graph.herokuapp.com/graph?username=lukemitch23&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph](https://github-readme-stats.vercel.app/api/top-langs/?username={lukemitch23})" alt="Most used languages" /></a>
+<a href="http://www.github.com/lukemitch23"><img src="[https://activity-graph.herokuapp.com/graph?username=lukemitch23&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph](https://github-readme-stats.vercel.app/api/top-langs/?username={lukemitch23})" /></a>
 
 <b>Top Repositories</b>
 
