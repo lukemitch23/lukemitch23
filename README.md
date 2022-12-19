@@ -30,7 +30,7 @@ Student
 
 <a href="http://www.github.com/lukemitch23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukemitch23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/lukemitch23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lukemitch23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/lukemitch23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={lukemitch23}" /></a>
 
 <b>Top Repositories</b>
 
