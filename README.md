@@ -7,7 +7,7 @@ Current A-Level Student
 -------
 
 * 🌍  I'm based in United Kingdom
-* 🚀  I'm currently working on [Camera Auction Website](https://github.com/lukemitch23/Coursework) 
+* 🚀  I'm currently working on a website called the [Camera Auction Website](https://github.com/lukemitch23/Camera-Auction-Website) 
 
 ### Skills
 
