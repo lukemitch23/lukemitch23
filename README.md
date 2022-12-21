@@ -1,13 +1,5 @@
-# Hi 👋 My name is Luke Mitchell
-
-==============================
-
-Current A-Level Student
--------
-
-<a href="http://www.github.com/lukemitch23"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter" /></a>
-* 🌍  I'm based in United Kingdom
-* 🚀  I'm currently working on a website called the [Camera Auction Website](https://github.com/lukemitch23/Camera-Auction-Website) 
+# Hi 👋 My name is Luke Mitchell <a href="http://www.github.com/lukemitch23"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter" /></a>
+## I'm a current A-Level student studying computer science, maths, physics and religious studies. I'm currently working on my coursework project, the [Camera Auction Website](https://github.com/lukemitch23/Camera-Auction-Website).
 
 ### Skills
 
