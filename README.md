@@ -1,11 +1,11 @@
 # Hi 👋 My name is Luke Mitchell
 
-<a href="http://www.github.com/lukemitch23"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter" /></a>
 ==============================
 
 Current A-Level Student
 -------
 
+<a href="http://www.github.com/lukemitch23"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{lukemitch23}1212%2Fhit-counter" /></a>
 * 🌍  I'm based in United Kingdom
 * 🚀  I'm currently working on a website called the [Camera Auction Website](https://github.com/lukemitch23/Camera-Auction-Website) 
 
